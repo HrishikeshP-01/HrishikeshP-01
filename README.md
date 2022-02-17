@@ -34,3 +34,10 @@ I'm passionate about making fun & accessible games, creating software:computer: 
 [![C#](https://img.shields.io/badge/-SterLE-000?&logo=c-sharp&logoColor=00599C)](https://github.com/HrishikeshP-01/Ster-LE)
 [![Unity](https://img.shields.io/badge/-Deathmarch-000?&logo=unity)](https://github.com/HrishikeshP-01/Deathmarch)
 [![Unity](https://img.shields.io/badge/-MentO-000?&logo=unity)](https://github.com/HrishikeshP-01/Ment-O)
+
+<!-- current status -->
+### 💼  Things that I'm currently working on: 
+* SterLE
+* Learning about game design principles
+* Working on an FPS prototype
+* Learning about game programming practices
