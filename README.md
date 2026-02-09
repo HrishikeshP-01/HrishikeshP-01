@@ -81,8 +81,7 @@ My goal on GitHub is to document my journey openly — the wins, the experiments
 ## 📬 Let’s Build Something Meaningful
 
 - **LinkedIn:** https://linkedin.com/in/hrishikesh-p  
-- **GitHub:** https://github.com/HrishikeshP-01  
-- **Email:** hrishikeshpramodnair@gmail.com  
+- **GitHub:** https://github.com/HrishikeshP-01
 
 Thanks for stopping by — genuinely.  
 Here’s to building things that last, help, and inspire. 🚀
