@@ -1,43 +1,88 @@
-<!-- Greeting -->
-# Hey there! :wave::smiley:
+# 👋 Hey, I'm Hrishikesh Pramod
 
-<!--Introduction -->
-I'm Hrishikesh P, a **student game designer & programmer**. While I'm not making games I work on SterLE - a VR level editor I made from scratch so that the designers of the future can create their levels in the virtual world.</br>
-I'm passionate about making fun & accessible games, creating software:computer: and tools to help other game devs in making their games come to life and researching on how games can augment one's daily life.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi don't feel shy!</b> :blush:</em>
+I’m a Data & AI Engineer who loves building things that *work* — reliably, scalably, and with real impact.  
+Right now, I work as a **Site Reliability Engineer – Data Platform at SLB**, where I design AI‑powered automation, build agentic workflows, and contribute to the backbone systems that global teams rely on every day.
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-p)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hrishikeshpramodnair@gmail.com)
-[![Gmail](https://img.shields.io/badge/-SecondaryEmail-blue?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hrishikeshp33@am.students.amrita.edu)
+My long‑term goal is simple:  
+**Build trustworthy, high‑impact AI systems that empower people — not replace them.**
 
-### Languages
+---
 
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+## 🚀 What I Do
 
-### Technologies
+### **Enterprise AI & Agentic Systems**
+- Designed **LangGraph-based AI agents** that improved data pipeline SLAs to **98%** and brought down MTTR by **90%** — directly impacting thousands of pipelines.
+- Built client-facing **text‑to‑SQL onboarding systems** that simplify data integrity workflows and reduce manual effort for end-users.
 
-![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-000?&logo=unrealengine)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+### **Data Engineering & Platform Reliability**
+- Developed production-grade ETL pipelines and enterprise data models across HR and manufacturing domains.
+- Delivered stakeholder-facing analytical solutions with **60% latency reduction**.
+- Led validation and testing for large-scale SaaS analytics platforms across Finance & HR.
 
-### Top GameDev Projects
+### **Human‑Centered Technical Problem Solving**
+I’ve always gravitated toward roles that blend engineering with empathy — understanding real problems, mapping workflows, and designing solutions that make someone's life easier.
 
-[![Unreal Engine](https://img.shields.io/badge/-Drag_Hero-000?&logo=unrealengine)](https://github.com/HrishikeshP-01/DragHero)
-[![C#](https://img.shields.io/badge/-SterLE-000?&logo=c-sharp&logoColor=00599C)](https://github.com/HrishikeshP-01/Ster-LE)
-[![Unity](https://img.shields.io/badge/-Deathmarch-000?&logo=unity)](https://github.com/HrishikeshP-01/Deathmarch)
-[![Unity](https://img.shields.io/badge/-MentO-000?&logo=unity)](https://github.com/HrishikeshP-01/Ment-O)
+---
 
-<!-- current status -->
-### 💼  Things that I'm currently working on: 
-* SterLE
-* Learning about game design principles
-* Working on an FPS prototype
-* Learning about game programming practices
+## 🏆 Achievements I'm Grateful For
+
+### **🥇 Winner — NVIDIA Hackathon 2025**
+Built autonomous agentic AI workflows using LangChain + ArangoDB for enterprise engineering automation.
+
+### **🥇 Winner — MakeMIT (MIT), 2022**
+Developed a real-time diagnostic system using integrated data streams and JS-based visualization.
+
+### **🥈 Second Place — Baidu Edge AI & Robotics Challenge**
+Built an OCR‑driven, on-device robotics perception module optimized for constrained hardware.
+
+These competitions shaped my mindset:  
+**move fast, stay calm, learn aggressively, and always finish with something that works.**
+
+---
+
+## 🧠 What I’m Passionate About
+
+- Building **reliable GenAI systems** that the real world can trust  
+- Designing **agentic workflows** that automate the tedious but elevate the human  
+- Creating tools that genuinely help—whether it’s an end-user, a stakeholder, or an entire org  
+- The intersection of **AI, systems engineering, and product thinking**  
+- Learning new technologies deeply, from kernel programming to evaluation frameworks  
+
+I believe great engineering comes from:
+**curiosity + consistency + humility + real-world grounding**.
+
+---
+
+## 🌱 Current Journey
+
+I’m constantly learning and pushing myself into areas where I’m a beginner again:
+
+- Advanced agentic frameworks (LangGraph, OpenAI Agents SDK, CrewAI)
+- RAG systems and evaluation strategies
+- Kernel programming & performance engineering
+- Building AI systems that are ethical, safe, and augment human capability
+
+I aspire to work on problems that matter —  
+problems that require both rigorous engineering and thoughtful human consideration.
+
+---
+
+## 🤝 What I Hope To Contribute
+
+I love contributing to:
+- AI tools that make developers’ lives easier  
+- Open-source systems around reliability, observability, and safety  
+- High-impact ideas that align with ethical technology and meaningful innovation  
+
+My goal on GitHub is to document my journey openly — the wins, the experiments, and the things I’m still figuring out. If anything here resonates, I’d love to connect, collaborate, or just talk ideas.
+
+---
+
+## 📬 Let’s Build Something Meaningful
+
+- **LinkedIn:** https://linkedin.com/in/hrishikesh-p  
+- **GitHub:** https://github.com/HrishikeshP-01  
+- **Email:** hrishikeshpramodnair@gmail.com  
+
+Thanks for stopping by — genuinely.  
+Here’s to building things that last, help, and inspire. 🚀
